@@ -1,0 +1,2 @@
+# QuickplayWhitelist
+Database for Quickplay
